@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="euc-kr"?>
+<RESOURCE VERSION="1.0">
+	<KOR><TOKEN i_CNT="0" i_MAXCNT="0"/><IMAGE i_CNT="2" i_MAXCNT="2"><IMG1 i_ID="1" NAME="Main">.\texture_main(sky_letters).bmp</IMG1><IMG2 i_ID="2" NAME="Logo">.\logo.jpg</IMG2></IMAGE><ANI i_CNT="0" i_MAXCNT="0"/></KOR></RESOURCE>

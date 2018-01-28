@@ -1,0 +1,14 @@
+; WIPIMain.def : Declares the module parameters for the DLL.
+
+LIBRARY      "Mole"
+DESCRIPTION  'Mole Windows Dynamic Link Library'
+
+EXPORTS
+    ; Explicit exports can go here
+	handleCletEvent			@1
+	startClet				@2
+	pauseClet				@3
+	resumeClet				@4
+	destroyClet				@5
+	paintClet				@6
+	emul_lib_init				@7

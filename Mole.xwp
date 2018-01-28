@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="euc-kr"?>
+<PROJECT VERSION="P3.0" NAME="Mole">
+	<DEVICE>
+		<DEFAULT></DEFAULT>
+		<CURRENT></CURRENT>
+	</DEVICE>
+	<SOURCE i_SRCCNT="1" i_RESCNT="1">
+		<SRC>
+			<SRCE NAME="Mole" TYPE="cpp">.</SRCE><SRCE NAME="CletModule" TYPE="c">.</SRCE><SRCE NAME="Draw" TYPE="c">.</SRCE><SRCE NAME="Draw" TYPE="h">.</SRCE></SRC>
+		<HEADER>
+		</HEADER>
+		<RES>
+		</RES>
+	</SOURCE>
+	<RESOURCE>
+		ResDBPath=Resource.xrf		
+	</RESOURCE>
+	<ALBLD>True</ALBLD>
+	<DEBUGEDIT NAME="Mole">D:\Program Files\WIPI SDK\Projects\Mole\Mole.dsp</DEBUGEDIT>
+	<EDITOR>
+		Icon= 
+		Image= 
+		Sound= 
+		App= 
+	</EDITOR>
+	<DEPENDENCY>
+	</DEPENDENCY>
+	<LIBPATH></LIBPATH>
+	<INCPATH></INCPATH>
+	<BINPATH></BINPATH>
+	<MACROSTARTPATH>D:\Program Files\WIPI SDK\Projects\Mole\macro\Mole_start.bas</MACROSTARTPATH><APPLIBTYPE>False</APPLIBTYPE></PROJECT>

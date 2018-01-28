@@ -1,0 +1,3 @@
+SDK_ROOT_DIR = D:/Program Files/WIPI SDK
+INC_DIR = D:/Program Files/WIPI SDK/Include
+LIB_DIR = D:/Program Files/WIPI SDK/Lib
